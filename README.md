@@ -1,13 +1,13 @@
 # IPL_DASHBOARD_SpringBoot-React-js
 
 # Demonstration :-
-HomePage 
+## HomePage 
 ![HomePage1](https://github.com/Lucifer7355/IPL_DASHBOARD_SpringBoot-React-js/blob/main/photos_for_demonstration/Screenshot%20(271).png)
 ![HomePage2](https://github.com/Lucifer7355/IPL_DASHBOARD_SpringBoot-React-js/blob/main/photos_for_demonstration/Screenshot%20(272).png)
-TeamAnalysisPage
+## TeamAnalysisPage
 ![TeamAnalysisPage1](https://github.com/Lucifer7355/IPL_DASHBOARD_SpringBoot-React-js/blob/main/photos_for_demonstration/Screenshot%20(273).png)
 ![TeamAnalysisPage2](https://github.com/Lucifer7355/IPL_DASHBOARD_SpringBoot-React-js/blob/main/photos_for_demonstration/Screenshot%20(274).png)
-TeamMatchesPerYear
+## TeamMatchesPerYear
 ![MatchesPerYear1](https://github.com/Lucifer7355/IPL_DASHBOARD_SpringBoot-React-js/blob/main/photos_for_demonstration/Screenshot%20(275).png)
 ![MatchesPerYear2](https://github.com/Lucifer7355/IPL_DASHBOARD_SpringBoot-React-js/blob/main/photos_for_demonstration/Screenshot%20(276).png)
 
